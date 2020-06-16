@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /iconfont/
+Disallow: /lib/
+Disallow: /share/
+Disallow: /categories/
+Disallow: /tags/
+
+Sitemap: https://2faramita.com/sitemap.xml
+Sitemap: https://2faramita.com/baidusitemap.xml
